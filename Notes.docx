@@ -1,0 +1,8 @@
+1. What is JavaScript?
+?High-level, interpreted programming language.
+?Runs in browsers (client-side) and Node.js (server-side / automation).
+?Used for interactivity, automation scripts, APIs, and testing frameworks.
+How to Run JS:
+?Browser: Create index.html with <script src="app.js"></script>
+?Node.js: node app.js
+?Online: Use console in browser DevTools (F12)
